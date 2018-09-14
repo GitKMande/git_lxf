@@ -1,0 +1,1 @@
+Have a try for test push--git push <name of repositry> master.
