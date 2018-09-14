@@ -5,4 +5,5 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 git checkout branch dev
 Creating a new branch is quick and simple.
+set for not used fast forward mode.
 
